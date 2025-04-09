@@ -7,5 +7,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
