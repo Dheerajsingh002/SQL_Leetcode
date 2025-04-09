@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0577-employee-bonus) |
+| [1415-students-and-examinations](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
