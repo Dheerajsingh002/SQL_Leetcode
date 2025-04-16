@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1161-project-employees-i) |
+| [1258-article-views-i](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1415-students-and-examinations) |
