@@ -20,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1827-invalid-tweets) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2057-count-salary-categories](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
