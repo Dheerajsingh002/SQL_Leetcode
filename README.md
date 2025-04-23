@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/0620-not-boring-movies) |
+| [1135-customers-who-bought-all-products](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Dheerajsingh002/SQL_Leetcode/tree/master/1258-article-views-i) |
